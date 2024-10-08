@@ -17,7 +17,7 @@ This project implements a spam detection system using the Naive Bayes algorithm.
   
 ## Installation
 
-To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using pip:
+To run this project, you need to have Python (Jupyter Notebook) installed along with the necessary libraries. You can install the required libraries using pip:
 
 pip install scikit-learn pandas matplotlib seaborn
 
