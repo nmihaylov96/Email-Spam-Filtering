@@ -81,7 +81,7 @@ plt.xlabel('Category')
 plt.ylabel('Count')
 plt.show()
 ```
-Data
+**## Data**
 The dataset used in this project is a collection of SMS messages labeled as "spam" or "ham." The data is loaded from a CSV file, and unnecessary columns are removed to clean the dataset.
 
 Model Training
