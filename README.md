@@ -80,6 +80,7 @@ plt.title('Distribution of Messages by Category')
 plt.xlabel('Category')
 plt.ylabel('Count')
 plt.show()
+```
 Data
 The dataset used in this project is a collection of SMS messages labeled as "spam" or "ham." The data is loaded from a CSV file, and unnecessary columns are removed to clean the dataset.
 
