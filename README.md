@@ -81,19 +81,21 @@ plt.xlabel('Category')
 plt.ylabel('Count')
 plt.show()
 ```
-##Data
+
+## Data
 The dataset used in this project is a collection of SMS messages labeled as "spam" or "ham." The data is loaded from a CSV file, and unnecessary columns are removed to clean the dataset.
 
-Model Training
+## Model Training
 The model is trained using the Multinomial Naive Bayes algorithm. The text messages are converted into numerical form using the CountVectorizer to facilitate the training process. The dataset is split into training and testing sets for evaluation purposes.
 
-Results
+## Results
 The model achieves an accuracy of approximately 98.2% on the test dataset. A confusion matrix is displayed to visualize the performance of the model.
 
-Visualizations
+## Visualisation
 The project includes visualizations that depict:
 
 The distribution of messages categorized as ham and spam.
 The confusion matrix for a deeper insight into the model's predictions.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
